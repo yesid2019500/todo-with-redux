@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b5a62502.css","mappings":"AAIA,eAHI,qBAMJ,CAHA,KAEI,UACJ","sources":["style.css"],"sourcesContent":["html, body {\r\n    background-color: #000;\r\n}\r\n\r\n.app{\r\n    background-color: #000;\r\n    color: #fff;\r\n}"],"names":[],"sourceRoot":""}
